@@ -13,6 +13,6 @@ module.exports = {
         password: 'toor'
         },
     config: {
-        csv_record_limit_per_file: 2,
+        csv_record_limit_per_file: 3,
     }
 }
