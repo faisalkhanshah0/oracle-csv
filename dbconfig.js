@@ -11,5 +11,8 @@ module.exports = {
         sid: 'xe',
         username: 'system',
         password: 'toor'
-        }
+        },
+    config: {
+        csv_record_limit_per_file: 2,
+    }
 }
