@@ -15,5 +15,10 @@ module.exports = {
     config: {
         csv_record_limit_per_file: 3,
         table_name: 'customers'
+    },
+    gcp_spanner_config : {
+        projectId : 'potent-bulwark-256105',
+        instanceId : '',
+        databaseId : ''
     }
 }
