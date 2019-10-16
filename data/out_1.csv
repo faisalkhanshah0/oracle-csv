@@ -1,4 +1,4 @@
-Id,Name,Surname,Age,Gender
+CUSTOMER_ID,CUSTOMER_NAME,CUSTOMER_SURNAME,AGE,GENDER
 1,John,Snow,25,M
 2,Clair,White,21,F
 3,Fancy,Brown,78,F
